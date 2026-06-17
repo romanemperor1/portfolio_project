@@ -3,7 +3,7 @@
   "createdAt": "2026-05-21",
   "budget": 30000,
   "targetPositions": 12,
-  "lastRefresh": "2026-06-17T15:00:00Z",
+  "lastRefresh": "2026-06-17T13:26:50+00:00",
   "positions": [
     {
       "ticker": "KCB",
@@ -13,14 +13,14 @@
       "entryPrice": 0.5132,
       "entryCurrency": "USD",
       "nativeTicker": "KCB",
-      "nativePrice": 66.50,
+      "nativePrice": 66.5,
       "nativeCurrency": "KES",
       "fxAtEntry": 129.58,
       "entryDate": "2026-06-17",
       "spyEntryPrice": 750.33,
-      "hunch": "PLACEHOLDER — East African banking pure-play; 22.5% ROE; deep regional footprint (Kenya + DRC + Uganda + Tanzania + Rwanda + South Sudan). Analyst fair value KES 126 vs. KES 66.50 spot.",
+      "hunch": "PLACEHOLDER \u2014 East African banking pure-play; 22.5% ROE; deep regional footprint (Kenya + DRC + Uganda + Tanzania + Rwanda + South Sudan). Analyst fair value KES 126 vs. KES 66.50 spot.",
       "active": true,
-      "accessNote": "NSE Nairobi only — no US ADR. Real-money access requires specialty broker (EFG Hermes, AIB Capital) or IBKR Kenya enablement. Fine as paper position."
+      "accessNote": "NSE Nairobi only \u2014 no US ADR. Real-money access requires specialty broker (EFG Hermes, AIB Capital) or IBKR Kenya enablement. Fine as paper position."
     },
     {
       "ticker": "MTNOY",
@@ -32,7 +32,7 @@
       "nativeTicker": "MTNOY",
       "entryDate": "2026-06-17",
       "spyEntryPrice": 750.33,
-      "hunch": "PLACEHOLDER — MoMo fintech rail (69.5M MAU, $500B+ tx) wrapped in telco valuation.",
+      "hunch": "PLACEHOLDER \u2014 MoMo fintech rail (69.5M MAU, $500B+ tx) wrapped in telco valuation.",
       "active": true
     },
     {
@@ -48,7 +48,7 @@
       "fxAtEntry": 1.4015,
       "entryDate": "2026-06-17",
       "spyEntryPrice": 750.33,
-      "hunch": "PLACEHOLDER — tier-1 DRC copper, 2027 production step-up baked in.",
+      "hunch": "PLACEHOLDER \u2014 tier-1 DRC copper, 2027 production step-up baked in.",
       "active": true
     },
     {
@@ -61,7 +61,7 @@
       "nativeTicker": "MP",
       "entryDate": "2026-06-17",
       "spyEntryPrice": 750.33,
-      "hunch": "PLACEHOLDER — Pentagon $110/kg NdPr CFD floor turns a miner into a quasi-utility.",
+      "hunch": "PLACEHOLDER \u2014 Pentagon $110/kg NdPr CFD floor turns a miner into a quasi-utility.",
       "active": true
     },
     {
@@ -74,7 +74,7 @@
       "nativeTicker": "LZM",
       "entryDate": "2026-06-17",
       "spyEntryPrice": 750.33,
-      "hunch": "PLACEHOLDER — speculative flyer. Tanzania nickel sulfide pre-FID; binary 2026 catalyst.",
+      "hunch": "PLACEHOLDER \u2014 speculative flyer. Tanzania nickel sulfide pre-FID; binary 2026 catalyst.",
       "active": true
     },
     {
@@ -87,7 +87,7 @@
       "nativeTicker": "FRVO",
       "entryDate": "2026-06-17",
       "spyEntryPrice": 750.33,
-      "hunch": "PLACEHOLDER — next-gen geothermal IPO; 3 GW Google framework; Cape Station catalyst.",
+      "hunch": "PLACEHOLDER \u2014 next-gen geothermal IPO; 3 GW Google framework; Cape Station catalyst.",
       "active": true
     },
     {
@@ -100,7 +100,7 @@
       "nativeTicker": "ORA",
       "entryDate": "2026-06-17",
       "spyEntryPrice": 750.33,
-      "hunch": "PLACEHOLDER — profitable geothermal hedge to FRVO; Q1 revenue +76%, storage +153%.",
+      "hunch": "PLACEHOLDER \u2014 profitable geothermal hedge to FRVO; Q1 revenue +76%, storage +153%.",
       "active": true
     },
     {
@@ -113,7 +113,7 @@
       "nativeTicker": "MHVYF",
       "entryDate": "2026-06-17",
       "spyEntryPrice": 750.33,
-      "hunch": "PLACEHOLDER — gas turbine duopolist + Japan defense + nuclear restart trifecta.",
+      "hunch": "PLACEHOLDER \u2014 gas turbine duopolist + Japan defense + nuclear restart trifecta.",
       "active": true
     },
     {
@@ -126,20 +126,20 @@
       "nativeTicker": "TLN",
       "entryDate": "2026-06-17",
       "spyEntryPrice": 750.33,
-      "hunch": "PLACEHOLDER — $18B AWS nuclear PPA locked in; FERC restructured around. 2028 capacity tail unhedged.",
+      "hunch": "PLACEHOLDER \u2014 $18B AWS nuclear PPA locked in; FERC restructured around. 2028 capacity tail unhedged.",
       "active": true
     },
     {
       "ticker": "SMSN.L",
       "name": "Samsung Electronics GDR (LSE, 1 GDR = 5 ord)",
       "bucket": "AI Semi",
-      "shares": 1.70,
-      "entryPrice": 1179.50,
+      "shares": 1.7,
+      "entryPrice": 1179.5,
       "entryCurrency": "USD",
       "nativeTicker": "SMSN.L",
       "entryDate": "2026-06-17",
       "spyEntryPrice": 750.33,
-      "hunch": "PLACEHOLDER — HBM4 qualified with NVIDIA; #2 vendor finally executing; Q1 OP exceeded all of FY25.",
+      "hunch": "PLACEHOLDER \u2014 HBM4 qualified with NVIDIA; #2 vendor finally executing; Q1 OP exceeded all of FY25.",
       "active": true
     },
     {
@@ -152,7 +152,7 @@
       "nativeTicker": "REMX",
       "entryDate": "2026-06-17",
       "spyEntryPrice": 750.33,
-      "hunch": "PLACEHOLDER — diversified rare earth & critical minerals basket; ~$5K core position alongside MP/LZM individual bets. Note ~50% China exposure dilutes the Western-supply thesis somewhat.",
+      "hunch": "PLACEHOLDER \u2014 diversified rare earth & critical minerals basket; ~$5K core position alongside MP/LZM individual bets. Note ~50% China exposure dilutes the Western-supply thesis somewhat.",
       "active": true,
       "positionSize": 5000,
       "isETF": true
@@ -167,7 +167,7 @@
       "nativeTicker": "GRID",
       "entryDate": "2026-06-17",
       "spyEntryPrice": 750.33,
-      "hunch": "PLACEHOLDER — grid infrastructure picks-and-shovels: Quanta, Eaton, Schneider, ABB. AI energy buildout exposure without single-name execution risk.",
+      "hunch": "PLACEHOLDER \u2014 grid infrastructure picks-and-shovels: Quanta, Eaton, Schneider, ABB. AI energy buildout exposure without single-name execution risk.",
       "active": true,
       "positionSize": 5000,
       "isETF": true
@@ -189,9 +189,30 @@
         "ORA": 133.96,
         "MHVYF": 23.25,
         "TLN": 406.51,
-        "SMSN.L": 1179.50,
+        "SMSN.L": 1179.5,
         "REMX": 96.78,
         "GRID": 192.12,
+        "SPY": 750.33
+      }
+    },
+    {
+      "date": "2026-06-17T13:26:50+00:00",
+      "portfolioValue": 30007.56,
+      "totalInvested": 30005.82,
+      "spyBenchmarkValue": 30005.82,
+      "prices": {
+        "MTNOY": 14.31,
+        "IVN.TO": 8.93775,
+        "MP": 57.05,
+        "LZM": 4.35,
+        "FRVO": 33.91,
+        "ORA": 133.96,
+        "MHVYF": 23.25,
+        "TLN": 406.51,
+        "SMSN.L": 1179.5,
+        "REMX": 96.78,
+        "GRID": 192.12,
+        "KCB": 0.5132,
         "SPY": 750.33
       }
     }
