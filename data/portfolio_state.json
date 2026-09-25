@@ -3,7 +3,7 @@
   "createdAt": "2026-05-21",
   "budget": 30000,
   "targetPositions": 12,
-  "lastRefresh": "2026-09-24T23:48:17+00:00",
+  "lastRefresh": "2026-09-25T23:53:49+00:00",
   "positions": [
     {
       "ticker": "KCB",
@@ -1726,6 +1726,27 @@
         "GRID": 178.26,
         "KCB": 0.5132,
         "SPY": 767.18
+      }
+    },
+    {
+      "date": "2026-09-25T23:53:49+00:00",
+      "portfolioValue": 25216.51,
+      "totalInvested": 30005.82,
+      "spyBenchmarkValue": 30846.41,
+      "prices": {
+        "MTNOY": 12.13,
+        "IVN.TO": 8.529599,
+        "MP": 48.83,
+        "LZM": 3.99,
+        "FRVO": 15.18,
+        "ORA": 93.63,
+        "MHVYF": 25.0,
+        "TLN": 304.42,
+        "SMSN.L": 1179.5,
+        "REMX": 66.66,
+        "GRID": 179.57,
+        "KCB": 0.5132,
+        "SPY": 771.35
       }
     }
   ],
